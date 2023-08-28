@@ -5,7 +5,7 @@ Version = '01'
 
 # Define the script description
 Description = """
-    This script perform automatic segmentation using random forest
+    This script compare automatic segmentation using random forest and Unet
 
     Author: Mathieu Simon
             ARTORG Center for Biomedical Engineering Research

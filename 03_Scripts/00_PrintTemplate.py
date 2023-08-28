@@ -9,6 +9,8 @@ Description = """
     during compression testing. From original script of
     Benjamin Voumard
 
+    To modify
+
     Author: Mathieu Simon
             ARTORG Center for Biomedical Engineering Research
             SITEM Insel
